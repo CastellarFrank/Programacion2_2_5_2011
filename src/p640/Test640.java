@@ -10,6 +10,6 @@ package p640;
  */
 public class Test640 {
     public static void main(String args[]){
-        System.out.println("Hola 640");
+        System.out.println("Hola Jose");
     }
 }
